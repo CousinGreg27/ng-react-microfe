@@ -1,0 +1,3 @@
+[submodule "react-mfe"]
+	path = react-mfe
+	url = https://github.com/CousinGreg27/ng-react-microfe.git
