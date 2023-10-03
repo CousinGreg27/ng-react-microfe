@@ -28,6 +28,7 @@ Once you click the link to go to the `angular-mfe`, notice the network tab chang
 This is allowing SystemJS to handle routing of our microfrontends. (Phase 1)
 
 ## Creating and registering a new app/parcel
-*If we want to add a new react `parcel`*
-
+*If we want to add a new react `parcel`....*
+TODO
 ## Importing a parcel into a registered application
+TODO
